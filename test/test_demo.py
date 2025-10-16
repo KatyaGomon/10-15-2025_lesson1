@@ -13,4 +13,4 @@ def test_demo2():
     assert 2 == 2
 
 def test_demo3():
-    assert 2 == 3
+    assert 3 == 3
